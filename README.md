@@ -59,7 +59,6 @@
 |![注册界面](https://upload-images.jianshu.io/upload_images/9140378-05d764654c3c31fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)||![登陆界面](https://upload-images.jianshu.io/upload_images/9140378-00d8edf23f126ad4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)|
 
 </div>
-    
 
 # 应用功能设想
 
